@@ -32,7 +32,7 @@ header h1 {
 .header-intro {
     font-size: 1.2rem;
     margin: 1rem auto;
-    color: #666;
+    color: #dcd4d4;
     max-width: 600px;
 }
 
@@ -123,7 +123,7 @@ section h2 {
 }
 
 .tech-stack {
-    color: #94a3b8;
+    color: #3F4C5F;
     font-size: 0.85rem;
     margin-bottom: 1.5rem;
     font-weight: 500;
@@ -249,12 +249,12 @@ section h2 {
 .contact-card h3 {
     font-size: 1.3rem;
     margin-bottom: 0.5rem;
-    color: #1a1a1a;
+    color: #969696;
 }
 
 .contact-card p {
     font-size: 0.9rem;
-    color: #666;
+    color: #B3B3B3;
 }
 
 .social-links {
