@@ -60,7 +60,7 @@ To view the portfolio locally:
 ```bash
 git clone https://github.com/quiklydev/portfolio.git
 cd portfolio
-open index.html'''
+open index.html
 
 ---
 
