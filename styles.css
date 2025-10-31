@@ -17,7 +17,7 @@ body {
 header {
     background: #1a1a1a;
     color: #fff;
-    padding: 2rem;
+    padding: 6px 16px;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -25,24 +25,26 @@ header {
 }
 
 header h1 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
+    font-size: 1,6rem;
+    margin-bottom: 0,5rem;
 }
 
 .header-intro {
-    font-size: 1.2rem;
-    margin: 1rem auto;
+    font-size: 1rem;
+    margin: 0,5rem auto;
     color: #dcd4d4;
-    max-width: 600px;
+    max-width: 500px;
 }
 
 .cta-button {
     display: inline-block;
-    margin-top: 1rem;
-    padding: 0.8rem 2rem;
+    margin: 12px 0;
+    padding: 12px 24px;
     background: #1a1a1a;
     color: #fff;
+    min-height: 48px;
     text-decoration: none;
+    font-size: 16px;
     border-radius: 6px;
     transition: background 0.3s ease
 }
@@ -55,7 +57,7 @@ header h1 {
 
 nav {
     display: flex;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 nav a {
@@ -67,6 +69,11 @@ nav a {
 
 nav a:hover {
     color: #94a3b8;
+}
+
+header nav a {
+    margin: 0 6px;
+    font-size: 0.9rem;
 }
 
 /* Sections */

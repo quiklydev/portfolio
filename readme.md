@@ -61,8 +61,18 @@ To view the portfolio locally:
 git clone https://github.com/quiklydev/portfolio.git
 cd portfolio
 open index.html
-
+```
 ---
+
+## 📊 Lighthouse Results
+
+| Viewport | Performance | Accessibility | Best Practices | SEO | FCP  | LCP  | TBT | CLS | SI  |
+|----------|-------------|---------------|----------------|-----|------|------|-----|-----|-----|
+| 320px    | 100         | 100           | 100            | 100 | 1.5s | 1.5s | 0ms | 0   | 1.5s|
+| 375px    | 100         | 100           | 100            | 100 | 1.5s | 1.5s | 0ms | 0   | 1.5s|
+| 425px    | 100         | 100           | 100            | 100 | 1.5s | 1.5s | 0ms | 0   | 1.5s|
+| 768px    | 100         | 100           | 100            | 100 | 1.5s | 1.5s | 0ms | 0   | 1.5s|
+| Desktop  | 100         | 100           | 100            | 100 | 0.5s | 0.5s | 0ms | 0   | 0.5s|
 
 ## 📬 Contact
 
